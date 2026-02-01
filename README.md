@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Kislay Singh Rajput 👋
 
-<!--
-**kislay2405/kislay2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on building scalable applications.
+- 📚 I’m constantly sharpening my problem-solving skills on LeetCode.
+- ⚡ Fun fact: I believe in the "Database-First" approach for solid architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 LeetCode Achievements
+<p align="center">
+  <a href="https://leetcode.com/kislaysinghrajput2405">
+    <img src="https://leetcard.jacoblin.cool/kislaysinghrajput2405?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kislaysinghrajput2405&animated=true" alt="LeetCode Badges" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kislaysinghrajput2405&layout=compact&theme=vision-glow" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kislaysinghrajput2405&theme=vision-glow" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/kislay-rajput-180814298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/kislaysinghrajput2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
