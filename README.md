@@ -20,19 +20,15 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kislaysinghrajput2405&layout=compact&theme=vision-glow" alt="Top Langs" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kislaysinghrajput2405&theme=vision-glow" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🛠️ Connect with me
 <p align="left">
+  <a href="mailto:mailmekislay.rajput@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/kislay-rajput-180814298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/kislaysinghrajput2405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
